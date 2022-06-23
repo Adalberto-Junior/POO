@@ -1,0 +1,3 @@
+Aluno: 92672; Luiz Junior; CC: 111111; Data de Nascimento: 2006-04-12; Data de inscricao: 2017-07-18;
+Aluno: 105589; Adalberto Vaz do Rosario; CC: 192345; Data de Nascimento: 2001-05-13; Data de inscricao: 2022-06-06;
+Aluno: 118923; Pedro Tomas; CC: 234567; Data de Nascimento: 1999-01-19; Data de inscricao: 2015-07-10;

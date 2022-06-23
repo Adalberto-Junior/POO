@@ -1,0 +1,11 @@
+payment receipt
+Accommodation Name: Hotel Imperial
+Accommodation Name: HTI
+ Price per nigth: 2345,00
+ Total of night: 10
+ Bill: 23450,00
+ Payed: 213395,00
+ Change: 0,00
+ Finish
+
+Check-out Complete!
